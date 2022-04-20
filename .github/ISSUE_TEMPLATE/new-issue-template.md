@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**As a [description of user]?**
+**As a _description of user_?**
 A clear and concise description of who the user is. Ex. As an idealist resident of Northern BC [...]
 
 **I want to [functionality]**
