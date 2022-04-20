@@ -15,7 +15,7 @@ A clear and concise description of what you want to happen. Ex. I want to share 
 
 
 **So that [benefit]**
-A clear and concise description of any alternative solutions or features you've considered.
+How will this benefit the overall product goal? 
 
 **Acceptance Criteria**
 Agreed-upon confirmation of the requirements when done can be deemed as complete
