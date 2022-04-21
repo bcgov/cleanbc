@@ -14,7 +14,11 @@ A clear and concise description of who the user is. Ex. As an idealist resident 
 A clear and concise description of what you want to happen. Ex. I want to share my feedback about climate topics with government online [...]
 
 
-**So that [additional context]**
+**So that [benefit]**
+How will this benefit the overall product goal?
+
+
+**Additional context**
 Add any other context, attachments or screenshots
 
 **Acceptance Criteria**
