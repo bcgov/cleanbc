@@ -1,6 +1,6 @@
 ---
 name: Task Type Template
-about: 'This template is fro operational or repetitive kind of tasks. '
+about: 'This template is for operational or repetitive kind of tasks. '
 title: ''
 labels: ''
 assignees: ''
